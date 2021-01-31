@@ -1,0 +1,5 @@
+pretrained_models
+.DS_Store
+.idea
+venv
+talkingImage/__pycache__
